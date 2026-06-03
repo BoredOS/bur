@@ -1,0 +1,14 @@
+# Copyright (c) 2023-2026 Christiaan (chris@boreddev.nl)
+# This software is released under the GNU General Public License v3.0. See LICENSE file for details.
+# This header needs to maintain in any file it is present in, as per the GPL license terms.
+#
+#
+# index.toml, this get's pushed towards bur.boredos.dev and the bpm client will be able to parse this to download the .bup files.
+[package.nova]
+name = "nova"
+version = "1"
+description = "Nova compositor and supporting daemons"
+author = "BoredOS Official"
+license = "GPLv3"
+url = "https://github.com/BoredOS/nova/releases/download/1.0/nova-1.bup"
+sha256 = "0fe9ac920244d1c8c3cfff9f20ac25aae5741a9e48b42b4ddaa6d8ae3206f65e"
