@@ -12,3 +12,12 @@ author = "BoredOS Official"
 license = "GPLv3"
 url = "https://github.com/BoredOS/nova/releases/download/1.2/nova-1.2.bup"
 sha256 = "5dca4d85da9dd379950cf68d179c8a46ad2b56d4f018fa632b70588541229854"
+
+[package.colloidicons]
+name = "colloidicons"
+version = "1.0"
+description = "A PNG-only version of the colloid icon pack."
+author = "vinceliuice"
+license = "GPLv3"
+url = "https://github.com/BoredOS/colloid/releases/download/1.0/colloid-1.0.0.bup"
+sha256 = "376a21edf5f09a8826fd68f141f04a455f2b5d96b2735e37a1dc3cf41088337c"
