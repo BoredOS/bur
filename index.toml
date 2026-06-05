@@ -6,7 +6,7 @@
 # index.toml, this get's pushed towards bur.boredos.dev and the bpm client will be able to parse this to download the .bup files.
 [package.nova]
 name = "nova"
-version = "1"
+version = "1.1"
 description = "Nova compositor and supporting daemons"
 author = "BoredOS Official"
 license = "GPLv3"
